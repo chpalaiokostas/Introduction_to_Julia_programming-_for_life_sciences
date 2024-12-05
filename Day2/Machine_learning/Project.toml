@@ -1,0 +1,4 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+MLSuite = "fd36aebc-0777-11ea-1be3-eb1bdc5c01e1"
+Plotly = "58dd65bb-95f3-509e-9936-c39a10fdeae7"
